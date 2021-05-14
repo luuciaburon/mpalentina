@@ -1,0 +1,151 @@
+.principal{
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.cabecera{
+  background-color: #DAE3E5;
+}
+
+.inlogo{
+  display: inline-block;
+  width: 20%;
+  vertical-align:middle;
+}
+
+    .logo{
+      vertical-align: middle;
+      width: 250px;
+    }
+
+.inh1{
+  display: inline-block;
+  width: 68%;
+}
+
+    H1{
+      font-family: 'Antic Slab', serif;
+      font-family: 'Open Sans Condensed', sans-serif;
+      font-size: 3rem;
+      color: #1F4053;
+      text-align: center;
+      margin:0;
+    }
+
+.botones{
+  background-color: #1F4053;
+  padding: 5%;
+  padding-left: 500px;
+}
+
+.contenido{
+  background-color: #DAE3E5;
+  padding: 50px;
+}
+
+H2{
+  font-family: 'Antic Slab', serif;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: left;
+  font-size: 2rem;
+  margin: 0;
+  color: #1F4053;
+}
+
+p{
+  font-family: 'Antic Slab', serif;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  text-align: justify;
+  margin: 20px;
+  font-size: 1.2rem;
+}
+
+
+.precios{
+  background: #fff;
+  width: 55%;
+  padding: 20px;
+  height: 450px;
+  margin: 0 auto;
+}
+
+.intabla{
+  display: inline-block;
+  width: 68%;
+}
+    h3{
+      font-family: 'Antic Slab', serif;
+      font-family: 'Open Sans Condensed', sans-serif;
+      font-size: 2rem;
+      color: #d9ad26;
+      font-style: italic;
+      text-align: left;
+      margin:0;
+      padding-left: 100px;
+    }
+
+.inmontañita{
+  display: inline-block;
+  width: 20%;
+  vertical-align:middle;
+}
+    .montañita{
+      vertical-align: middle;
+      width: 250px;
+      margin-bottom: 20px;
+    }
+
+.intente{
+  display: inline-block;
+  width: 390px;
+  background: #fff;
+  vertical-align: top;
+}
+    .tente{
+      width:100%;
+    }
+
+.intino{
+  display: inline-block;
+  width: 390px;
+  background: #fff;
+  vertical-align: top;
+}
+    .Tino{
+      width:100%;
+    }
+
+.escaladores{
+  display: inline-block;
+  width: 390px;
+  background: #fff;
+}
+    .HPou{
+      width:100%;
+    }
+
+h4{
+  font-family: 'Antic Slab', serif;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 2rem;
+  color: #d9ad26;
+  text-align: middle;
+  text-align: inherit;
+  margin:0;
+  margin-left: 150px;
+  margin-top: 20px;
+}
+
+
+.botonesfin{
+  background-color: #1F4053;
+  padding: 5%;
+  padding-left: 600px;
+}
+
+.copy{
+  color: white;
+  margin-left: -30px;
+  font-size: 1rem;
+}
